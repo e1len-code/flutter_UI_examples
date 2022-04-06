@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:login_ui/menu_page.dart';
-import 'package:login_ui/screen1.dart';
+import 'package:login_ui/plants_example/main.dart';
 import 'package:login_ui/screen2.dart';
 
 class RouteGenerator {
